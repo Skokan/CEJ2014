@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CEJ 2014</string>
+    <string name="logo">Logo of the CEJ 2014</string>
+    <string name="info">General info</string>
+    <string name="button2">Paticipants</string>
+
+</resources>
